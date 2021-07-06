@@ -40,3 +40,25 @@ D:\CalculatorBlack\obj\Debug\CalculatorBlack.csproj.GenerateResource.cache
 D:\CalculatorBlack\obj\Debug\CalculatorBlack.csproj.CopyComplete
 D:\CalculatorBlack\obj\Debug\CalculatorBlack.exe
 D:\CalculatorBlack\obj\Debug\CalculatorBlack.pdb
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\bin\Debug\CalculatorBlack.exe.config
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\bin\Debug\CalculatorBlack.exe
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\bin\Debug\CalculatorBlack.pdb
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\bin\Debug\MaterialDesignColors.dll
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\obj\Debug\CalculatorBlack.csprojAssemblyReference.cache
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\obj\Debug\MainWindow.g.cs
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\obj\Debug\App.g.cs
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\obj\Debug\CalculatorBlack_MarkupCompile.cache
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\obj\Debug\CalculatorBlack_MarkupCompile.lref
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\obj\Debug\App.baml
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\obj\Debug\MainWindow.baml
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\obj\Debug\CalculatorBlack.g.resources
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\obj\Debug\CalculatorBlack.Properties.Resources.resources
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\obj\Debug\CalculatorBlack.csproj.GenerateResource.cache
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\obj\Debug\CalculatorBlack.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\obj\Debug\CalculatorBlack.csproj.CopyComplete
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\obj\Debug\CalculatorBlack.exe
+C:\Users\Bogdan Kocsis\Documents\GitHub\Calculator-Application\CalculatorBlack\obj\Debug\CalculatorBlack.pdb
